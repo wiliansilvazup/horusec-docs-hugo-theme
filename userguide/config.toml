@@ -1,4 +1,4 @@
-baseURL = "https://horusec.io"
+baseURL = "https://docs.horusec.io"
 title = "Docsy Example"
 
 enableRobotsTXT = true
